@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Email</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Login</string>
+    <string name="registration">Signup</string>
+    <string name="email_address">Email cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Vissza</string>
+    <string name="common_sport">Hobbi sportoló</string>
+    <string name="prof_sport">Profi sportolo</string>
+    <string name="description">Termék leírás</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="default_web_clint_id">445089497327-edghc59s4rs9g9dmgc3i4qns2c6ks9oq.apps.googleusercontent.com</string>
+    <string name="default_web_client_id">445089497327-edghc59s4rs9g9dmgc3i4qns2c6ks9oq.apps.googleusercontent.com</string>
+    <string name="save">Mentés</string>
+    <string name="nickname">Felahsználónév</string>
+
+</resources>
