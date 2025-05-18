@@ -142,7 +142,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void startTraining(){
-        Intent intent = new Intent(this, trainlistActivity.class);
+        Intent intent = new Intent(this, MuscleGroupActivity.class);
         startActivity(intent);
     }
 

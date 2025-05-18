@@ -118,8 +118,8 @@ public class SignupActivity extends AppCompatActivity {
         finish();
     }
 
-    private void startTraining(/* registered user data */){
-        Intent intent = new Intent(this, trainlistActivity.class);
+    private void startTraining(){
+        Intent intent = new Intent(this, MuscleGroupActivity.class);
         //intent.putExtra("SECRET_KEY", SECRET_KEY);
         startActivity(intent);
     }
